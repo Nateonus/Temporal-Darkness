@@ -9,7 +9,7 @@ namespace TemporalDarkness
     public class TemporalDarknessModSystem : ModSystem
     {
         /// <summary>
-        /// Main Mod Entry Point.
+        /// Main entry point for the mod.
         /// </summary>
         /// <param name="api"></param>
         public override void Start(ICoreAPI api)
