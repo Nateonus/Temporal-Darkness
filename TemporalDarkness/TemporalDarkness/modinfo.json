@@ -1,12 +1,12 @@
 {
     "type": "code",
     "modid": "temporaldarkness",
-    "name": "TemporalDarkness",
+    "name": "Temporal Darkness",
     "authors": [
-        "Unknown"
+        "Nat (Nateonus)"
     ],
-    "description": "To be added",
-    "version": "1.0.0",
+    "description": "A darker, harsher take on Vintage Story. Don't stay out when in the darkness.",
+    "version": "0.0.1",
     "dependencies": {
         "game": ""
     }
